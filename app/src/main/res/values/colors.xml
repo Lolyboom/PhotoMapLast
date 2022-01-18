@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button">#8E4FA5</color>
+    <color name="purple_registrationButton1">#B8A2C0</color>
+    <color name="purple_registrationButton2">#8E4FA5</color>
+    <color name="purple_actionBar">#8E4FA5</color>
+    <color name="purple_registrationText">#2C1634</color>
+</resources>

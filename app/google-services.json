@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172558949076",
+    "project_id": "photomaplast",
+    "storage_bucket": "photomaplast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172558949076:android:0c4c9c3f4c1dc24d53f941",
+        "android_client_info": {
+          "package_name": "com.hfad.photomaplast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172558949076-0el0m9asvit1m4q5gj3i78eoqpq8183r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.photomaplast",
+            "certificate_hash": "5dcd8dc554506038fd8d604c720b2ba18a818d62"
+          }
+        },
+        {
+          "client_id": "172558949076-334f2errrs6pk87csaikk537oob7reig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDui1Td5xW6tni90gY62cNFbm93ExBU1O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172558949076-334f2errrs6pk87csaikk537oob7reig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
